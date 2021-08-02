@@ -1,0 +1,4 @@
+Semantics/VariableName:
+  Description: 'Checks for meaningless variable names.'
+  Enabled: true
+  VersionAdded: '1.0.0'

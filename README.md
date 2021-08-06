@@ -1,3 +1,5 @@
+[![RubyGems](https://img.shields.io/gem/v/rubocop-semantics?logo=rubygems&style=for-the-badge)](https://rubygems.org/gems/rubocop-semantics)
+
 # RuboCop Semantics
 
 Checks for meaningless variable names in Ruby code. An extension for [RuboCop](https://rubocop.org).

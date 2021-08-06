@@ -29,6 +29,18 @@ require:
   - rubocop-semantics
 ```
 
+## Cops
+
+Only one cop so far :)
+
+### Semantics/VariableName
+
+Suggests to use a more descriptive name for a variable called `info`, `data`, etc.
+
+    app/lib/remote_csv_processor.rb:8:5: C: Semantics/VariableName: Use a more descriptive variable name.
+        data = csv.read
+        ^^^^
+
 ## Development
 
 After checking out the repo, run `bin/setup` to install dependencies.

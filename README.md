@@ -1,4 +1,5 @@
 [![RubyGems](https://img.shields.io/gem/v/rubocop-semantics?logo=rubygems&style=for-the-badge)](https://rubygems.org/gems/rubocop-semantics)
+[![Travis CI](https://img.shields.io/travis/com/vassilevsky/rubocop-semantics?logo=travis&style=for-the-badge)](https://travis-ci.com/github/vassilevsky/rubocop-semantics)
 
 # RuboCop Semantics
 

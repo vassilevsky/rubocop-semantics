@@ -7,6 +7,7 @@ RSpec.describe RuboCop::Cop::Semantics::VariableName, :config do
 
     data
     info
+    scope
     value
 
   ].each do |variable_name|

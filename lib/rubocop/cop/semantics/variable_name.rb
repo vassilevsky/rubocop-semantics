@@ -19,6 +19,7 @@ module RuboCop
 
           data
           info
+          scope
           value
 
         ].freeze
